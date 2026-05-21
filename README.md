@@ -1,6 +1,6 @@
 # RewardHub
 
-[![Python](https://img.shields.io/badge/Python-3.13+-3776AB?logo=python)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.13+-0078D7?logo=python)](https://www.python.org/)
 [![uv](https://img.shields.io/badge/UV-Package-DE5FE9?logo=astral)](https://docs.astral.sh/uv/)
 [![RewardHub](https://img.shields.io/badge/RewardHub-Proview-3E63DD?logo=react)](http://129.146.183.34:8081)
 
