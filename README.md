@@ -50,4 +50,4 @@ demo/123456
 ### 支持
 
 - 提交问题：[Issues](https://github.com/xiesx123/RewardHub/issues)
-- 邮件联系：[xiesx123@gmail.com](mailto:xiesx123@gmail.com)
+- 邮件联系：[Email](mailto:xiesx123@gmail.com)
