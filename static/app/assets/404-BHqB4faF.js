@@ -1,0 +1,1 @@
+import{N as o}from"./index-ChieiA-b.js";const n=o;export{n as component};
