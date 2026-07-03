@@ -34,7 +34,7 @@ case "$1" in
     echo "已重启，PID: $(cat $APP_PID_FILE)"
     ;;
   log)
-    log_file="logs/creator_$(date +%Y-%m-%d).log"
+    log_file="logs/$(date +%Y-%m-%d).log"
     if [ -f "$log_file" ]; then
       tail -f "$log_file"
     else
